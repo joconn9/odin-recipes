@@ -1,2 +1,3 @@
 # odin-recipes
-assignment from The Odin Project
+Assignment from The Odin Project.
+First assigment demonstrating basic HTML skills.
